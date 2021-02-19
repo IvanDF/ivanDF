@@ -1,33 +1,7 @@
-# :wave: Hi there, I'm Paolo
+# :wave: Sono Ivan,
 
-![italy](https://img.shields.io/badge/from-italy-blue) ![budapest](https://img.shields.io/badge/living-budapest-orange) ![badge](https://img.shields.io/badge/build-passing-success)
 
-![infographic](https://github.com/PaoloDuzioni/PaoloDuzioni/blob/master/hero.gif)
 
-### Who I am
-
-I'm a **web developer** focused on the front-end side and a **coding coach**, who have always been attracted about how the creativity can be used, along with web technologies, to create amazing experiences.
-
-### What I do
-
-I build websites/web applications, Wordpress and Drupal themes from scratch, Laravel web apps, Vue JS and React JS/Native apps. Interested in new trends and technologies on the web's world, especially in JavaScript and the latest CSS3 techniques. 
-
-**My motto is: stay curious, you'll always have fun.**
-
----
-
-### Lets get in touch
-
-Intrerested in a collaboration or just want to have a chat?
-
-- :house: [WebSite](https://paoloduzioni.it/)
-- :office: [Linkedin](https://www.linkedin.com/in/paolo-duzioni-a3162716a/)
-- :book: [Facebook](https://www.facebook.com/paoloduzioni)
-- :camera: [Instagram](https://www.instagram.com/paoloduzionidev/)
-- :bird: [Twitter](https://twitter.com/PaoloDuzioni)
-- :computer: [CodePen](https://codepen.io/Paolo-Duzioni)
-
----
-
-Stay safe and remember to **push** :wink:
-
+**Junior Full Stack Web Developer**, con la passione per la programmazione, design ed il fitness. 
+Mi piace rimanere informato ed imparare nuove tecnologie mediante la lettura di libri e frequentando corsi di formazione.
+Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la mia valvola di sfogo, la natura è la mia fonte di ispirazione 
