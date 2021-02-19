@@ -1,4 +1,4 @@
-# :wave: Sono Ivan,
+# ![infographic](https://github.com/IvanDF/ivanDF/blob/main/logo.png) Sono Ivan,
 
 
 
