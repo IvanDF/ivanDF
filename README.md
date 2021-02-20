@@ -19,14 +19,12 @@ Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la 
 const kowlendge = {
   languages: [HTML, CSS(SCSS), JavaScript(ES6), PHP],
   frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery],
-  packageManager: ["NPM", "Composer"],
   database: ["MySQL", "phpMyAdmin"],
   passions: [
     "development",
     "design",
     "fitness"
   ],
- challenge: "Tutto quello che non conosco... lo voglio conoscere!",
- dailyCit: "La semplicità è la complessità risolta"
+ // challenge: "Tutto quello che non conosco... lo voglio conoscere!",
 }
 ```
