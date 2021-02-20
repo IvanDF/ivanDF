@@ -26,3 +26,12 @@ let knowlendge = {
  // challenge: "Tutto quello che non conosco... lo voglio conoscere!",
 }
 ```
+
+---
+
+### Social
+
+- :office: [Linkedin](https://www.linkedin.com/in/ivandf)
+- :computer: [CodePen](https://codepen.io/Ghivi)
+
+---
