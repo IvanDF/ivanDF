@@ -17,7 +17,7 @@ Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la 
 let kowlendge = {
   languages: [HTML, CSS(SCSS), JavaScript(ES6), PHP],
   frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery],
-  database: ["MySQL", "phpMyAdmin"],
+  database: [MySQL, phpMyAdmin],
   passions: [
     "development",
     "design",
