@@ -1,4 +1,4 @@
-<h2> :wave: Sono Ivan! <img src="icon.png" width="50"></h2>
+<h2> :wave: Sono Ivan! </h2>
 
 <p>
 <strong>Junior Full Stack Web Developer</strong>, con la passione per la programmazione, design ed il fitness. 
