@@ -13,7 +13,7 @@ Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la 
 
 ```javascript
 const kowlendge = {
-  languages: ["HTML, CSS(SCSS), JavaScript(ES6), PHP],
+  languages: [HTML, CSS(SCSS), JavaScript(ES6), PHP],
   frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery],
   packageManager: ["NPM", "Composer"],
   database: ["MySQL", "phpMyAdmin"],
