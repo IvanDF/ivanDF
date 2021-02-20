@@ -1,4 +1,4 @@
-<h1 align="center"> :wave: Sono Ivan! </h1>
+<h1 align="center"> :man_technologist: Sono Ivan! </h1>
 <img align='right' src="gif.gif" width="230">
 
 ---
