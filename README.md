@@ -14,7 +14,7 @@ Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la 
 <br />
 
 ```javascript
-let kowlendge = {
+let knowlendge = {
   languages: [HTML, CSS(SCSS), JavaScript(ES6), PHP],
   frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery],
   database: [MySQL, phpMyAdmin],
