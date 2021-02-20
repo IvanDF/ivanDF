@@ -1,5 +1,5 @@
 <h2> :wave: Sono Ivan! <img src="gif.gif" width="50"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="230">
+<img align='right' src="gif.gif" width="230">
 
 <p>
 <strong>Junior Full Stack Web Developer</strong>, con la passione per la programmazione, design ed il fitness. 
