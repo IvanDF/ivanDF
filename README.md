@@ -1,5 +1,5 @@
 <h1 align="center"> :wave: Sono Ivan! </h1>
-<img align='right' src="gif.gif" width="230">
+<img align='right' src="gif.gif" width="250">
 
 ---
 
