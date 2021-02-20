@@ -1,4 +1,4 @@
-<h2> :wave: Sono Ivan! </h2>
+<h1 align="center"> :wave: Sono Ivan! </h1>
 <img align='right' src="gif.gif" width="230">
 
 ---
@@ -12,8 +12,6 @@ Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la 
 ---
 
 <br />
-<br />
-
 
 ```javascript
 const kowlendge = {
