@@ -1,12 +1,12 @@
-<h1 align="center"> :wave: Sono Ivan! </h1>
+<h1 align="center"> :wave: Sono <a href="https://ivandf.dev" target="_blank">Ivan</a>! </h1>
 <img align='right' src="gif.gif" width="250">
 
 ---
 
 <p>
-<strong>Junior Full Stack Web Developer</strong>, con la passione per la programmazione, il design ed il fitness. 
-Mi piace rimanere informato ed imparare nuove tecnologie mediante la lettura di libri e frequentando corsi di formazione.
-Sono un ragazzo che ama ed apprezza le cose semplici della vita. Lo sport è la mia valvola di sfogo, la natura è la mia fonte di ispirazione 
+Sono Ivan, un <strong> Junior Web Developer </strong>, appassionato di informatica e design. 
+Mi piace rimanere informato ed imparare <strong> leggendo libri e frequentando corsi di formazione </strong>.
+Immagino la mia vita come un percorso ad ostacoli: mi piace pensare che li supererò tutti. Tutto quello che non so, lo voglio conoscere. 
 </p>
 
 ---
