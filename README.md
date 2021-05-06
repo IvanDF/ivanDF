@@ -16,7 +16,7 @@ Immagino la mia vita come un percorso ad ostacoli: mi piace pensare che li super
 ```javascript
 let knowlendge = {
   languages: [HTML, CSS(SCSS), JavaScript(ES6), PHP],
-  frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery],
+  frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery, React],
   database: [MySQL, phpMyAdmin],
   passions: [
     "development",
