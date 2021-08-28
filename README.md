@@ -4,9 +4,9 @@
 ---
 
 <p>
-Sono Ivan, un <strong> Junior Web Developer </strong>, appassionato di informatica e design. 
+Sono Ivan, un <strong>Junior Web Developer</strong>, appassionato di tecnologia e design. 
 Mi piace rimanere informato ed imparare <strong> leggendo libri e frequentando corsi di formazione </strong>.
-Immagino la mia vita come un percorso ad ostacoli: mi piace pensare che li supererò tutti. Tutto quello che non so, lo voglio conoscere. 
+Immagino la mia vita come un percorso ad ostacoli: mi piace pensare che li supererò tutti.
 </p>
 
 ---
@@ -14,12 +14,23 @@ Immagino la mia vita come un percorso ad ostacoli: mi piace pensare che li super
 <br />
 
 ```javascript
+
+const toDoToday = (dayNumber) => {
+  return dayNumber >= 7 ? "sleep" : "code"
+}
+
+const todayIs = new Date().getDay()
+
+console.log(`Today i will ${toDoToday(todayIs)}`)
+
+
 let knowlendge = {
-  languages: [HTML, CSS(SCSS), JavaScript(ES6), PHP, TypeScript],
-  frameworks: [Bootstrap, Bulma, Vue(Vue CLI), Laravel, Jquery, React(Redux)],
-  database: [MySQL, phpMyAdmin],
+  languages: ["HTML", "CSS(SCSS)", "JavaScript(ES6)", "PHP", "TypeScript"],
+  frameworks: ["Bootstrap", "Bulma", "Vue(Vue CLI)", "Laravel", "Jquery", "React(Redux)"],
+  packageManager: ["Npm(Npx)", "Yarn", "Lerna"],
+  database: ["MySQL", "phpMyAdmin"],
   passions: [
-    "development",
+    "code",
     "design",
     "fitness"
   ],
