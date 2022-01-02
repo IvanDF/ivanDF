@@ -1,12 +1,10 @@
 <h1 align="center"> :wave: Sono <a href="https://ivandf.dev" target="_blank">Ivan</a>! </h1>
-<img align='right' src="gif.gif" width="250">
+<img align='right' src="gif.gif" width="350" max-width="100%">
 
 ---
 
 <p>
-Sono Ivan, un <strong>Junior Web Developer</strong>, appassionato di tecnologia e design. 
-Mi piace rimanere informato ed imparare <strong> leggendo libri e frequentando corsi di formazione </strong>.
-Immagino la mia vita come un percorso ad ostacoli: mi piace pensare che li supererò tutti.
+Ho passato buona parte della mia vita dietro ad un computer, che all’inizio utilizzavo come aiuto nello studio, diventando una parte fondamentale della mia crescita. La passione e la curiosità verso l’informatica e il design mi ha portato a studiare, leggere e imparare tutto quello che mi capitava sotto mano. <br> Al momento in parallelo al lavoro, sto seguendo un corso di React Native e approfondendo Angular.
 </p>
 
 ---
@@ -19,14 +17,14 @@ const toDoToday = (dayNumber) => {
   return dayNumber >= 7 ? "sleep" : "code"
 }
 
-const todayIs = new Date().getDay()
+const currentDate = new Date().getDay()
 
-console.log(`Today i will ${toDoToday(todayIs)}`)
+console.log(`Today i will ${toDoToday(currentDate)}`)
 
 
 let knowlendge = {
-  languages: ["HTML", "CSS(SCSS)", "JavaScript(ES6)", "PHP", "TypeScript"],
-  frameworks: ["Bootstrap", "Bulma", "Vue(Vue CLI)", "Laravel", "Jquery", "React(Redux)", "Angular(studying)", "React Native"],
+  languages: ["HTML", "CSS(SCSS)", "JavaScript", "PHP", "TypeScript"],
+  tools: ["Bootstrap", "Bulma", "Vue", "Laravel", "React(Redux)", "Angular(studying)", "React Native(studying)"],
   packageManager: ["Npm(Npx)", "Yarn", "Lerna"],
   database: ["MySQL", "phpMyAdmin"],
   passions: [
