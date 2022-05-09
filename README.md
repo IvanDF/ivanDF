@@ -41,6 +41,6 @@ let knowlendge = {
 ### Social
 
 - :office: [Linkedin](https://www.linkedin.com/in/ivandf)
-- :computer: [CodePen](https://codepen.io/Ivan_DF)
+- :computer: [CodePen](https://codepen.io/IvanDF)
 
 ---
