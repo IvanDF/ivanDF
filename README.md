@@ -24,7 +24,7 @@ console.log(`Today i will ${toDoToday(currentDate)}`)
 
 let knowlendge = {
   languages: ["HTML", "CSS(SCSS)", "JavaScript", "PHP", "TypeScript"],
-  tools: ["Bootstrap", "Bulma", "Vue", "Laravel", "React(Redux)", "Angular(in progress)", "React Native"],
+  tools: ["Bootstrap", "Bulma", "Vue", "Laravel", "React(Redux)", "Angular(Basic)", "React Native", "GSAP"],
   packageManager: ["Npm(Npx)", "Yarn", "Lerna"],
   database: ["MySQL", "phpMyAdmin"],
   passions: [
