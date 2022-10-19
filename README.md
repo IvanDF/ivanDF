@@ -4,7 +4,8 @@
 ---
 
 <p>
-Ho passato buona parte della mia vita dietro ad un computer, che all’inizio utilizzavo come aiuto nello studio, diventando una parte fondamentale della mia crescita. La passione e la curiosità verso l’informatica e il design mi ha portato a studiare, leggere e imparare tutto quello che mi capitava sotto mano.
+Mi presento: sono Ivan e dal 2020 sono entrato nel mondo della programmazione web, affrontando un percorso che mi ha inizializzato come Junior Full-Stack. Al momento, prediligo l’ambito Front-End (con una passione per creative developer).
+Mi piace viaggiare e fotografare tutto quello che mi suscita emozioni e sono sempre in cerca di nuove avventure. Mi piace reputarmi una persona creativa.
 </p>
 
 ---
@@ -23,16 +24,30 @@ console.log(`Today i will ${toDoToday(currentDate)}`)
 
 
 let knowlendge = {
-  languages: ["HTML", "CSS(SCSS)", "JavaScript", "PHP", "TypeScript"],
-  tools: ["Bootstrap", "Bulma", "Vue", "Laravel", "React(Redux/React-Query)", "Angular(Basic)", "React Native", "GSAP"],
-  packageManager: ["Npm(Npx)", "Yarn", "Lerna"],
-  database: ["MySQL", "phpMyAdmin"],
-  passions: [
-    "code",
-    "design",
-    "fitness"
+  languages: [
+    "HTML", 
+    "CSS(SCSS)", 
+    "JavaScript", 
+    "PHP", 
+    "TypeScript"
   ],
- // challenge: "Tutto quello che non conosco... lo voglio conoscere!",
+  
+  tools: [
+    "Bootstrap", 
+    "Vue", 
+    "Laravel", 
+    "React(Redux/React-Query)", 
+    "Angular(Basic)", 
+    "React Native", 
+    "GSAP", 
+    "Cypress"
+  ],
+  
+  packageManager: ["Npm(Npx)", "Yarn", "Lerna"],
+  
+  database: ["MySQL", "phpMyAdmin"],
+  
+  // passions: [ "code", "design", "photography" ],
 }
 ```
 
@@ -42,5 +57,6 @@ let knowlendge = {
 
 - :office: [Linkedin](https://www.linkedin.com/in/ivandf)
 - :computer: [CodePen](https://codepen.io/IvanDF)
+- :basecamp: [IvanDF.dev](https://ivandf.dev)
 
 ---
