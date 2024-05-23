@@ -57,6 +57,6 @@ let knowlendge = {
 
 - :office: [Linkedin](https://www.linkedin.com/in/ivandf)
 - :computer: [CodePen](https://codepen.io/IvanDF)
-- :basecamp: [IvanDF.dev](https://ivandf.dev)
+- :basecamp: [IvanDF.dev](https://ivandf.netlify.app)
 
 ---
